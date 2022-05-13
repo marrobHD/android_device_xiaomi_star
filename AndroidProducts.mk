@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_star.mk
+    $(LOCAL_DIR)/evolution_star.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_star-user \
-    aosp_star-userdebug \
-    aosp_star-eng
+    evolution_star-user \
+    evolution_star-userdebug \
+    evolution_star-eng

@@ -24,7 +24,7 @@ $(call inherit-product-if-exists, vendor/xiaomi/star-miuicamera/products/miuicam
 
 TARGET_SUPPORTS_QUICK_TAP := true
 
-PRODUCT_NAME := aosp_star
+PRODUCT_NAME := evolution_star
 PRODUCT_DEVICE := star
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 11 Ultra
