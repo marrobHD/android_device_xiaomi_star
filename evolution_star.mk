@@ -23,6 +23,7 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/star-miuicamera/products/miuicamera.mk)
 
 TARGET_SUPPORTS_QUICK_TAP := true
+TARGET_USES_AOSP_RECOVERY := true
 
 PRODUCT_NAME := evolution_star
 PRODUCT_DEVICE := star
